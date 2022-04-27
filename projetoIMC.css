@@ -80,10 +80,20 @@ button:hover {
 }
 
 #resultado {
+    display: flex;
     width: 260px;
     height: 146px;
     border-radius: 3px;
     background-color: rgb(255, 255, 255);
     margin: 45px 0px 20px 30px;
     box-shadow: 0px 3px 7px 1px #00000070;
+}
+
+#texto {
+    margin: auto;
+    font-size: 22px;
+    padding: 0px 15px 0px 15px;
+    text-align: center;
+    color: rgb(81, 70, 145);
+    user-select: none;
 }
