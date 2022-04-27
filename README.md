@@ -9,5 +9,6 @@ Site hospedado: https://samuelcdasilva.github.io/Calculadora_De_IMC/projetoIMC.h
 
 QR Code:
 
-![5](https://user-images.githubusercontent.com/91702874/165628476-1f2a19b2-3a77-4782-9e48-358f004a8c38.png)
+![qr-code (2)](https://user-images.githubusercontent.com/91702874/165629040-78b1b182-4771-4664-840b-f3a40e4f3225.png)
+
 
