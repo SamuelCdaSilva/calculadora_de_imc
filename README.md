@@ -5,4 +5,4 @@ Projeto realizado com o objetivo de criar uma calculadora de IMC (índice de mas
   
 Tecnologias utilizadas: HTML5, CSS3 e JavaScript.
 
-Site hospedado: 
+Site hospedado: https://samuelcdasilva.github.io/calculadora_de_imc/projetoIMC.html
