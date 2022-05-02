@@ -1,4 +1,4 @@
-# Calculadora_de_IMC
+# Calculadora de IMC
 Projeto IMC 🏃🏻
 
 Projeto realizado com o objetivo de criar uma calculadora de IMC (índice de massa corporal). 
